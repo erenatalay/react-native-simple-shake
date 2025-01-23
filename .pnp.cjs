@@ -17025,30 +17025,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["react-native-simple-shake", [\
-        ["file:../../../react-native-simple-shake#../../../react-native-simple-shake::hash=978bcb&locator=sound-waves%40workspace%3Aexample%2Fsound-waves", {\
-          "packageLocation": "./.yarn/unplugged/react-native-simple-shake-virtual-d0e752ede2/node_modules/react-native-simple-shake/",\
-          "packageDependencies": [\
-            ["react-native-simple-shake", "file:../../../react-native-simple-shake#../../../react-native-simple-shake::hash=978bcb&locator=sound-waves%40workspace%3Aexample%2Fsound-waves"]\
-          ],\
-          "linkType": "SOFT"\
-        }],\
-        ["virtual:d487fb860ce7c0acedfd0d6595a28085833843306f7fdc9819a9dd8f846cb4a92a7b4779d6944245174c66ade2ce4077d6ffab129cae04b0f3b30dad2346c112#file:../../../react-native-simple-shake#../../../react-native-simple-shake::hash=978bcb&locator=sound-waves%40workspace%3Aexample%2Fsound-waves", {\
-          "packageLocation": "./.yarn/unplugged/react-native-simple-shake-virtual-d0e752ede2/node_modules/react-native-simple-shake/",\
-          "packageDependencies": [\
-            ["react-native-simple-shake", "virtual:d487fb860ce7c0acedfd0d6595a28085833843306f7fdc9819a9dd8f846cb4a92a7b4779d6944245174c66ade2ce4077d6ffab129cae04b0f3b30dad2346c112#file:../../../react-native-simple-shake#../../../react-native-simple-shake::hash=978bcb&locator=sound-waves%40workspace%3Aexample%2Fsound-waves"],\
-            ["@types/react", "npm:17.0.21"],\
-            ["@types/react-native", null],\
-            ["react", "npm:18.3.1"],\
-            ["react-native", "virtual:d487fb860ce7c0acedfd0d6595a28085833843306f7fdc9819a9dd8f846cb4a92a7b4779d6944245174c66ade2ce4077d6ffab129cae04b0f3b30dad2346c112#npm:0.76.5"]\
-          ],\
-          "packagePeers": [\
-            "@types/react-native",\
-            "@types/react",\
-            "react-native",\
-            "react"\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["workspace:.", {\
           "packageLocation": "./",\
           "packageDependencies": [\
@@ -18209,7 +18185,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["expo-status-bar", "virtual:d487fb860ce7c0acedfd0d6595a28085833843306f7fdc9819a9dd8f846cb4a92a7b4779d6944245174c66ade2ce4077d6ffab129cae04b0f3b30dad2346c112#npm:2.0.1"],\
             ["react", "npm:18.3.1"],\
             ["react-native", "virtual:d487fb860ce7c0acedfd0d6595a28085833843306f7fdc9819a9dd8f846cb4a92a7b4779d6944245174c66ade2ce4077d6ffab129cae04b0f3b30dad2346c112#npm:0.76.5"],\
-            ["react-native-simple-shake", "virtual:d487fb860ce7c0acedfd0d6595a28085833843306f7fdc9819a9dd8f846cb4a92a7b4779d6944245174c66ade2ce4077d6ffab129cae04b0f3b30dad2346c112#file:../../../react-native-simple-shake#../../../react-native-simple-shake::hash=978bcb&locator=sound-waves%40workspace%3Aexample%2Fsound-waves"],\
             ["typescript", "patch:typescript@npm%3A5.7.3#~builtin<compat/typescript>::version=5.7.3&hash=14eedb"]\
           ],\
           "linkType": "SOFT"\
