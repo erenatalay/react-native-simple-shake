@@ -14,10 +14,8 @@ Whether you’re building an app that responds to gestures or implementing fun a
 
 ## Demo
 
-![Demo](./assets/andrid_finger.gif)
-![Demo](./assets/androd_face.gif)
-![Demo](./assets/ios_faceid.gif)
-![Demo](./assets/ios_password.gif)
+![Demo](./assets/android.gif)
+![Demo](./assets/ios.gif)
 
 ## Installation
 
