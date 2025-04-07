@@ -22,8 +22,6 @@
     <string>1.0.0</string>
     <key>CFBundleSignature</key>
     <string>????</string>
-    <key>NSFaceIDUsageDescription</key>
-    <string>We use biometrics to secure your account.</string>
     <key>CFBundleURLTypes</key>
     <array>
       <dict>
